@@ -25,7 +25,7 @@ docker run --name mongo-container -p 27017:27017 -d mongo
 npx @nestjs/cli g co controllers/<controller_name>
 ```
 
-## command to generate controller 
+## command to generate service 
 ```bash
 npx @nestjs/cli g s services/<service_name>
 ```
